@@ -1,0 +1,1040 @@
+
+
+body{
+
+}
+#main{
+	border:transparent;
+	width:1061px;
+	height:1300px;
+	margin-left: 70px;
+	background-image: url("../images/bg-grad.gif");
+	background-repeat: repeat;
+}
+#first{
+	border:transparent;
+	width:256px;
+	height:80px;
+    background-image: url("../images/adv_logo_hd.png");
+	background-repeat:no-repeat;
+	display: inline-block;
+}
+h1{
+	font-size:small;
+	padding-top:28px;
+	padding-left:130px;
+}
+#box1{
+	border:1px solid #C8D1D3;
+	width:180px;
+	height:22px;
+	display: inline-block;
+    margin-left: 270px;
+}
+
+#box2{
+	border:1px solid #C8D1D3;
+	width:90px;
+	height:22px;
+	display: inline-block;
+	margin-left: 5px;
+}
+#box3{
+	border:transparent;
+
+	width:170px;
+	height:22px;
+	display: inline-block;
+	margin-left: 43px;
+
+}
+#pic1{
+	background-image:url("../images/search_btn.gif");
+	background-repeat: no-repeat;
+	width:18px;
+	height:18px;
+	display: inline-block;
+	margin-left:81px;
+}
+nav{
+	width:1065px;
+	height:40px;
+	background-color: #DCDCDC;
+}
+li{
+	list-style: none;
+	float:left;
+	color: black;
+	width: 200px;
+	text-align: center;
+	margin-top: 7px;
+
+}
+a{
+	text-decoration: none;
+	color:black;
+	
+
+
+}
+a:hover{
+	background: skyblue;
+	color:darkblue;
+}
+#steps{
+	border:transparent;
+	width:1100px;
+	height:34px;
+}
+#step1{
+	border:transparent;
+	width:200px;
+	height:34px;
+	float:right;
+
+}
+#step3{
+	border:transparent;
+	width:200px;
+	height:34px;
+	float:right;
+	background-color:none;
+	}
+#step6{
+	border:transparent;
+	width:200px;
+	height:34px;
+   float:right;
+   background-color:none;
+}
+
+#st1{border:transparent;
+	width:200px;
+	height:34px;
+	float:right;
+	text-align: center;	
+}
+#step2{
+	border:transparent;
+	width:10px;
+	height:34px;
+	background-image:url("../images/resStepDivider.gif");
+	background-repeat: no-repeat;
+	float:right; 
+	margin-left: 0px;
+}
+#st3{border:transparent;
+	width:200px;
+	height:34px;	
+    float:right;
+    text-align: center;
+    margin-right: 30px;
+}
+#step4{
+	border:transparent;
+	width:10px;
+	height:34px;
+	background-image:url("../images/resStepDividerActive.gif");
+	background-repeat: no-repeat;
+	float:right; 
+
+}
+#st5{
+	border:transparent;
+	width:200px;
+	height:34px;
+	float:left;
+	text-align: center;
+}
+#st6{
+	border:transparent;
+	width:300px;
+	height:34px;
+	float:left;
+	text-align: center;
+	margin-left: -200px;
+}
+
+}
+#step6{
+	border:1px solid;
+	width:340px;
+	height:34px;
+	float:right;
+}
+#FirstLine{
+	border:transparent;
+	width:750px;
+	height:120px;
+	background-color: white;
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car1.jpg");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box4{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ 
+ #SecondLine{
+	border:1px transparent;
+	width:750px;
+	height:120px;
+    background-color: #DCDCDC;
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car2{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car2.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box4{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ 
+ #ThirdLine{
+	border:1px transparent;
+	width:750px;
+	height:120px;
+	background-color: white;
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car3{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car3.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box5{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ #FourthLine{
+	border:1px transparent;
+	width:750px;
+	height:120px;
+	background-color: #DCDCDC;
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car4{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car4.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box5{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ #FifthLine{
+	border:1px transparent;
+	width:750px;
+	height:120px;
+	background-color: white;
+
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car5{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car5.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box5{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ #SixthLine{
+	border:transparent;
+	width:750px;
+	height:120px;
+	background-color:#DCDCDC; 
+
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car6{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car6.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box5{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ #SevenLine{
+	border:1px transparent;
+	width:750px;
+	height:120px; 
+	background-color: white;
+
+}
+#price{
+	border:transparent;
+	width:172px;
+	height:100px;
+	display: inline-block;
+
+}
+#car7{
+	border:transparent;
+	width:172px;
+	height:100px;
+	background-image: url("../images/vehicles/car7.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+p{
+	margin-top: 85px;
+	text-align: center;
+}
+h2{
+	margin:auto;
+	text-align: center;
+	
+}
+h3{
+	font-size: x-small;
+	margin:auto;
+	text-align: center;
+}
+#select{
+	border:transparent;
+	width:80px;
+	height:20px;
+	background-color: skyblue;
+	margin-left:40px;
+}
+h6{
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;	
+}
+#suitcasebox{
+	border:transparent;
+	width:160px;
+	height:100px;
+	display: inline-block;
+}
+#person{
+	border:transparent;
+	width:14px;
+	height: 30px;
+	background-image: url("../images/vehicles/person.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+#text{
+     border:transparent;
+     width:140px;
+     height:20px;
+     display:inline-block;
+ }
+ #smallSuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text1{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #largesuitcase{
+ 	border:transparent;
+ 	width:22px;
+ 	height: 17px;
+ 	background-image: url("../images/vehicles/suitcase-s.gif");
+ 	display: inline-block;
+ }
+ #text2{
+ 	 border:transparent;
+     width:120px;
+     height:20px;
+     display:inline-block;
+ }
+ #Box5{
+ 	 border:transparent;
+     width:190px;
+     height:70px;
+     display:inline-block;
+ }
+ .phrase1{
+ 	border:transparent;
+ 	width:190px;
+ 	height:20px;
+ }
+ #Main2{
+ 	border:1px transparent;
+ 	width:750px;
+ 	height:850px;
+ 	display: inline-block;
+ }
+ #itinerary{
+ 	border:4px transparent;
+ 	width:305px;
+ 	height:600px;
+ 	display: inline-block;
+ 	margin:auto;
+ }
+ #iti1{
+ 	border:transparent;
+ 	width:305px;
+ 	height:460px;
+ 	background-color:#D1F6FC;
+ }
+ #iti2{
+ 	border:transparent;
+ 	width:305px;
+ 	height:200px;
+ 	background-image: url("../images/vehicles/offer.gif");
+ }
+ #change{
+ 	border:transparent;
+ 	width:130px;
+ 	height:30px;
+ 	margin-left: 170px;
+ }
+ b{
+ 	color:darkblue;
+ 	font-style: italic;
+ }
+ #footer{
+ 	border:transparent;
+ 	width:1065px;
+ 	height:275px;
+ 	background-image: url("../images/footer-bg-grad.png");
+ 	background-repeat: repeat;
+ }
+ #footer1{
+ 	border:transparent;
+ 	width:295px;
+ 	height:200px;
+ 	display: inline-block;
+ }
+ #allpic{
+ 	border:transparent;
+ 	width:200px;
+ 	height:30px;
+ }
+ #pic10{
+ 	border:transparent;
+ 	width:25px;
+ 	height:10px;
+ 	background-image: url("../images/share.jpeg");
+ 	display: inline-block;
+ 	margin-left:5px;
+ }
+ #pic2{
+ 	border:transparent;
+ 	width:30px;
+ 	height:30px;
+ 	background-image: url("../images/facebook.png");
+ 	display: inline-block;
+ 	margin-left:5px;
+ }
+ #pic3{
+ 	border:transparent;
+ 	width:30px;
+ 	height:30px;
+ 	background-image: url("../images/twitter.png");
+ 	display: inline-block;
+ 	margin-left:5px;
+ }
+#pic4{
+ 	border:transparent;
+ 	width:30px;
+ 	height:30px;
+ 	background-image: url("../images/youtube.png");
+ 	display: inline-block;
+ 	margin-left:5px;
+ }
+#phone{
+	border:transparent;
+	width:240px;
+	height:30px;
+}
+#pic5{
+	border:transparent;
+	width:16px;
+	height:30px;
+	background-image: url("../images/phoneicon.png"); 
+	display: inline-block;
+}
+#mobile{
+	border:transparent;
+	width:200px;
+	height:30px;
+	display: inline-block;
+	color:darkblue;
+
+}
+ #footer2{
+ 	border:transparent;
+ 	width:250px;
+ 	height:210px;
+ 	display: inline-block;
+ 	color: darkblue;
+ }
+ #footer3{
+ 	border:transparent;
+ 	width:250px;
+ 	height:200px;
+ 	display: inline-block;
+ 	color: darkblue;
+ }
+ #footer4{
+ 	border:transparent;
+ 	width:250px;
+ 	height:200px;
+ 	display: inline-block;
+ 	color:darkblue;
+ }
+ #foot{
+ 	border:transparent;
+ 	width:1000px;
+ 	height:20px;
+ 	margin-left: 20px;
+ 	margin-top:13px;
+ }
+ #foot2{
+ 	border:transparent;
+ 	width:1065;
+ 	height:5px;
+    background-color: darkblue;
+ }
+
+
+ 
+ 

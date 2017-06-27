@@ -1,0 +1,25 @@
+<div>
+<ul>
+<li ng-repeat="x in splitreview">
+{{splitreview[x]}}{{x}}
+</li>
+</ul>
+</div>
+
+<div>
+
+<ul>
+	<li ng-repeat="x in information.newreviews">
+	{{x.name}}<br/>
+	{{x.author}}<br/>
+	</li>
+</ul>
+<form name="form" novalidate >
+<ul style="list-style:none;">
+
+<li><i>enter your review:</i><input type="text" ng-model="y.name" required></li></br>
+<li><i>enter your email:</i><input type="email" ng-model="y.author" required></li>
+</ul></br>
+<button class="btn btn-danger" ng-click="form.$valid&&add()">adding new review</button>
+</form>	
+</div>

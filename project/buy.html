@@ -1,0 +1,27 @@
+<center><div style="display: inline-block; border:2px solid transparent; height:600px;width:600px;">
+<table>
+<center><img src="{{productImage}}"></center>
+<tr>
+<td><h4>Description of the Product</h4></td>
+<td>{{productDiscription}}</td>
+</tr>
+<tr>
+<td><h4>Stock Availibility</h4></td>
+<td>{{productStock}}</td>
+</tr>
+<tr>
+<td><h4>Price of the Product</h4></td>
+<td>{{productPrice}}</td>
+</tr>
+<tr>
+<td><h4>Shipping Details</h4></td>
+<td>{{productShipping}}</td>
+</tr>
+<tr>
+<td><h4>Reviews</h4></td>
+<td><ul><li ng-repeat="a in splitreview2">{{splitreview2[a]}}{{a}}</li></ul></td>
+</tr>
+</table>
+<button class="btn btn-success" ng-click="confirm(x.productDiscription,x.shippingDetails)">Confirm</button>
+</div>
+</center>

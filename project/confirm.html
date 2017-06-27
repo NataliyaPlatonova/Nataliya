@@ -1,0 +1,28 @@
+<center><h1>Confirmation</h1></center>
+<div>
+<center><div >
+<h4>Description of the Product</h4>
+<h4>{{productDiscription}}</h4>
+<h4>Shipping Details</h4>
+<h4>{{productShipping}}</h4>
+</div></center>
+<div class="container">
+<div class="container-fluid">
+<form name="reviewform">
+<label>Card Number:</label><br>
+<input type="text" name="cardNumber" required id="cardNumber"></br><br>
+<label>Name on the card:</label><br>
+<input type="text" name="name" required id="cardName"></br><br>
+<label>CVV:</label><br>
+<input type="text" name="cvv"  required id="cvv"></br><br>
+<label>Expiration Date:</label><br>
+<input type="date" type="date" required></br>
+<label>Address:</label><br>
+<input type="text" name="address" required></br></br>
+<label>Zip Code:</label><br>
+ <input type="text" name="zipcode" required id="zip"></br></br>
+<button class="btn btn-danger" ng-click="reviewform.$valid&&pay(x.productDiscription,x.price)">PAY</button>
+</form>
+</div>
+</div>
+
